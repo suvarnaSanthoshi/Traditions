@@ -1,0 +1,13 @@
+
+img {
+width: 100%;
+padding: 0px;
+bottom: 150px;
+position: relative;
+z-index:-1;
+
+}
+#name{
+    color: hotpink;
+    font-size: 30px;
+}

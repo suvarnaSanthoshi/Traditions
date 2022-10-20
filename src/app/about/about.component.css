@@ -1,0 +1,60 @@
+.matter{
+    margin-left: 250px;
+    margin-right: 250px;
+    }
+    .decorate{
+    background-color:#ff0066 ;
+    font-size: 200% ;
+    font-family: cursive; 
+    color: #ffffff;
+    }
+    #deco
+    {
+    background-color: #6600CC;
+    font-size: 150% ; 
+    text-align:center ;
+    color: #ffffff;
+    padding:10px;
+    }
+    table, th, td {
+    border: 1px solid black;
+    }
+    h1{
+    background-color: #ff0066 ; 
+    font-size: 250% ;
+    text-align:center ;
+    font-family: cursive;
+    color: #ffffff;
+    }
+    h2{
+    background-color: #ff0066 ;
+    font-size: 200% ;
+    text-align:center ;
+    font-family: cursive;
+    color: #ffffff;
+    }
+    li{
+    font-size:20px;
+    }
+    p{
+    font-family: cursive;
+    font-size:20px;
+    }
+    img{
+    height: 350px;
+    width: 350px;
+    height: fit-cover;
+    }
+    table{
+    font-size: 20px;
+    width: 75%;
+    border: 0;
+    }
+    .home{
+    position: fixed;
+    background-color: pink;
+    left: 1400px;
+    right: 20px;
+    top: 640px;
+    font-size: 20px;
+    }
