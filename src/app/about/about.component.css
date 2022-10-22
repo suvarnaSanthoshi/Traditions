@@ -50,11 +50,3 @@
     width: 75%;
     border: 0;
     }
-    .home{
-    position: fixed;
-    background-color: pink;
-    left: 1400px;
-    right: 20px;
-    top: 640px;
-    font-size: 20px;
-    }
